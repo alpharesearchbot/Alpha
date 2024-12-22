@@ -7,10 +7,12 @@
 }
 main{
      background: rgb(17, 17, 18);
+     width: 100%;
+
     
 }
 .container{
-    max-width: 1300px;
+    
      width: 100%;
      
      margin: 0 auto;
@@ -134,11 +136,11 @@ nav ul li a{
 
 }
 .r .column{
-    width: 50%;
-
-}
-
-
+    width:35%;
+   
+    
+    
+    }
 .r_img {
     display: block;
     width: 100%;
